@@ -1,8 +1,8 @@
 # 🧬 MedQuery AI
 
-**RAG-powered PubMed research assistant** — Ask any medical research question and get answers grounded in real peer-reviewed literature, with citations.
+**RAG-powered PubMed research assistant** : Ask any medical research question and get answers grounded in real peer-reviewed literature, with citations.
 
-Built by **Sri Vardhini Venna** | MS Engineering Data Science · University of Houston
+Built by **Sri Vardhini Venna**
 
 ---
 
